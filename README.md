@@ -15,8 +15,10 @@
 <ul>
   <li>
     <h3>HV version Web</h3>
-    <p>Descripción: Este proyecto consiste en el desarrollo de una aplicación web personalizada para la creación y presentación de mi hoja de vida en línea. 
-       El objetivo principal es proporcionar a los usuarios una plataforma fácil de usar para destacar su experiencia laboral, habilidades y logros de manera atractiva.</p>
+    <p>Descripción: Este proyecto consiste en el desarrollo de una aplicación web personalizada para la creación y presentación de mi     
+       hoja de vida en línea. 
+       El objetivo principal es proporcionar a los usuarios una plataforma fácil de usar para destacar su experiencia laboral, 
+       habilidades y logros de manera atractiva.</p>
     <p>Tecnologías Utilizadas: HTML5 - CSS3</p>
   </li>
 
@@ -36,15 +38,28 @@
   
   <li>
     <h3>ToDo List (Lista de Tareas)</h3>
-    <p>Descripción: Este proyecto se centra en el desarrollo de una aplicación web para la gestión de tareas, conocida como "Todo List". El propósito principal es proporcionar a los     
-       usuarios una herramienta sencilla y eficiente para organizar sus tareas diarias, establecer prioridades y realizar un seguimiento de sus progresos.</p>
+    <p>Descripción: Este proyecto se centra en el desarrollo de una aplicación web para la gestión de tareas, conocida como "Todo List". 
+       El propósito principal es proporcionar a los     
+       usuarios una herramienta sencilla y eficiente para organizar sus tareas diarias, establecer prioridades y realizar un seguimiento 
+       de sus progresos.</p>
     <p>Tecnologías Utilizadas:</p>
     <ul>
       <li>Frontend: HTML5, CSS3, JavaScript</li>
       <li>Framework Frontend: React</li>
       <li>Backend: Node.js con Express</li>
       <li>Base de datos: MongoDB</li>
-      <li>Autenticación y Autorización: Implementación de un sistema seguro de autenticación para garantizar la privacidad de las listas.</li>
+      <li>Autenticación y Autorización: Implementación de un sistema seguro de autenticación para garantizar la privacidad de las 
+          listas</li>
+    </ul>
+  </li>
+
+  <li>
+    <h3>Número Secreto</h3>
+    <p>Descripción: Este proyecto se centra en el desarrollo de una aplicación web (Juego) donde El jugador intenta adivinar un número   
+       secreto generado aleatoriamente por la computadora.</p>
+    <p>Tecnologías Utilizadas:</p>
+    <ul>
+      <li>Frontend: HTML5, CSS3, JavaScript</li>
     </ul>
   </li>
 </ul>
