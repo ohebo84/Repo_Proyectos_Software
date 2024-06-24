@@ -1,5 +1,5 @@
 # Repo_Proyectos_Software
-<image src="https://media.licdn.com/dms/image/D4D16AQFC45rg_6lUeA/profile-displaybackgroundimage-shrink_350_1400/0/1674022860085?e=1714608000&v=beta&t=fVWuEFeCSnwvMmvohTR4RTuJsbdZYkwQP7CNb6vsTkY" alt="Descripción de la imagen" width="1000px">
+<image src="[https://media.licdn.com/dms/image/D4D16AQFC45rg_6lUeA/profile-displaybackgroundimage-shrink_350_1400/0/1674022860085?e=1714608000&v=beta&t=fVWuEFeCSnwvMmvohTR4RTuJsbdZYkwQP7CNb6vsTkY](https://media.licdn.com/dms/image/D4E16AQHxhRbRnOPKCw/profile-displaybackgroundimage-shrink_350_1400/0/1701137168402?e=1724889600&v=beta&t=JYsabL7lg_GHf-muvGASPlElJCCdEyxRoL-v0nO0ZoE)" alt="Descripción de la imagen" width="1000px">
 
 <h1>Portafolio de Proyectos de Oscar Iván Herrera Bonilla</h1>
 <p>¡Bienvenido a mi portafolio de proyectos! Aquí encontrarás una muestra de algunos de los proyectos en los que he trabajado y las habilidades que he desarrollado como programador de software</p>
